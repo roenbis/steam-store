@@ -1,0 +1,23 @@
+<?php
+return [
+    'online_shop' => 'Steam Store',
+    'all_products' => 'Все товары',
+    'set_lang' => "en",
+    'price_from' => 'Цена от',
+    'price_to' => 'Цена до',
+    'contains_in_name' => 'Содержит в названии:',
+    'filter' => 'Фильтр',
+    'reset' => 'Сброс',
+    'project_reset' => 'Проект сброшен в начальное состояние',
+    'categories' => 'Категории',
+    'to_basket' => 'В корзину',
+    'login' => 'Войти',
+    'admin_panel' => "Админка",
+    'my_orders' => 'Мои заказы',
+    'logout' => 'Выйти',
+    'properties' => [
+        'hit' => 'Хит',
+        'recommend' => 'Рекомендуем',
+        'new' => 'Новинка',
+    ],
+];
